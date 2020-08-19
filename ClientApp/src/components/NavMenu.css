@@ -1,0 +1,47 @@
+﻿a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.AddEventBtn {
+    background-color: cadetblue;
+    float: right;
+    margin-bottom: 1%;
+}
+
+
+.SeaGreen {
+    background-color: lightseagreen;
+    color: white;
+    border-color: lightseagreen;
+}
+option {
+    background-color: white;
+    color: lightseagreen;
+}
+table > thead > tr > th, Label {
+    color: lightseagreen;
+}
+
+.FloatRight{
+    float: right;
+}
+
+.MarRFontL {
+    margin-right: 1%;
+    font-size: large;
+}
